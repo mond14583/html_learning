@@ -1,0 +1,51 @@
+<html lang="en">
+</html>
+<head>
+    <meta charset="UTD-8">
+    <meta name="viewport" charset="width=device-w1">
+    <title>form</title>
+</head>
+<body>
+    <form action="index.html" method="=get"></form>
+    <ladel for="">ชื่อ - นามสกุล</ladel>
+    <input type="=text"placeholber="">
+    <br>
+    <label for="">รหัสผ่าน</label>
+    <input type=""type="password">
+    <br>
+    <label for="">วันที่</label>
+    <input type="datetime-local">
+    <br>
+    <labbe for="">สี</label>
+    <input type="color">
+    <br>
+    <lnpul for="">อายุ</lnpul>
+    <input type="number" min="1" max="10" vaiue="1">
+    <br>
+    <label for="">งานอดิเรก</label>
+    <input type="checkbox"vaiue="นอน">นอน
+    <input type="checkbox"vaiue="กิน">กิน
+    <input type="checkbox"vaiue="เล่นเกม">เล่นเกม
+    </div>
+</lnpul for="">ระดับชั้น</lnpul>
+<input type="radio" name="data" value="">ปวช.
+<input type="radio" name="data" value="">ปวส.
+<input type="radio" name="data" value="">ป.ตรี
+<br>
+<label for="">จังหวัด</label>
+<select name="">
+   <option>อุดรธานี</option>
+   <option>ขอนแข่น</option>
+   <option>เลย</option>
+   <option>หนองหาย</option>
+   <option>เวียงจันทร์</option>
+</select>
+<br>
+   </lnpul for="">กรอกที่อยู่</lnpul>
+<textarea></textarea>
+<br>
+<input type="submit" value="ส่งข้อมูล">
+<input type="reset">
+</form>
+</body>
+</html>
